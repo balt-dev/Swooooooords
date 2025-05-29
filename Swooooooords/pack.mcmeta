@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"description": "Makes all swords around 150 blocks long.",
+		"pack_format": 8,
+        "supported_formats": [8,32767],
+	},
+	"credits": [
+		"baltdev"
+	]
+}
